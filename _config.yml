@@ -1,11 +1,11 @@
-title: ▪️▫️▪️▫️
+title: ▪️▫️ Felicia Ann Kelley ▪️▫️
 description: A bold typographic theme inspired by Swiss design.
-social_link: twitter
-social_username: broccolini
-github_repo: athena
-github_username: broccolini
-theme_color: black
-remote_theme: internet-de-france/swiss
+social_link: Twitter/fkelley046
+social_username: fkelley046
+github_repo: faykeltay
+github_username: 'faykeltay '
+theme_color: Cyan
+remote_theme: CodeIsPoetry
 baseurl: /fak
 defaults:
   - scope:
